@@ -1,6 +1,9 @@
 ## Visualizing planetary systems in VR
 
 Course: Virtual and Augmented Reality under Prof. Andrew Johnson at the University of Illinois at Chicago.  
+Developers: Sandeep Rane, Ana Salinas, Sandeep Joshi  
+
+Entire project details can be found at: https://srane3.wordpress.com/project2_virtualreality/
 
 ## Project Description
 
