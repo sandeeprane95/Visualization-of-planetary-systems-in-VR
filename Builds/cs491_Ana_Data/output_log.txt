@@ -1,0 +1,62 @@
+Initialize engine version: 5.5.0f3 (38b4efef76f0)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 1070 (ID=0x1b81)
+    Vendor:   NVIDIA
+    VRAM:     8120 MB
+    Driver:   22.21.13.8266
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\vr\Desktop\SolarSystem_v107\Builds\cs491_Ana_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\vr\Desktop\SolarSystem_v107\Builds\cs491_Ana_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\vr\Desktop\SolarSystem_v107\Builds\cs491_Ana_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\vr\Desktop\SolarSystem_v107\Builds\cs491_Ana_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\vr\Desktop\SolarSystem_v107\Builds\cs491_Ana_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\vr\Desktop\SolarSystem_v107\Builds\cs491_Ana_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\vr\Desktop\SolarSystem_v107\Builds\cs491_Ana_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\vr\Desktop\SolarSystem_v107\Builds\cs491_Ana_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\vr\Desktop\SolarSystem_v107\Builds\cs491_Ana_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\vr\Desktop\SolarSystem_v107\Builds\cs491_Ana_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+Platform assembly: C:\Users\vr\Desktop\SolarSystem_v107\Builds\cs491_Ana_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\vr\Desktop\SolarSystem_v107\Builds\cs491_Ana_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+Platform assembly: C:\Users\vr\Desktop\SolarSystem_v107\Builds\cs491_Ana_Data\Managed\UnityEngine.VR.dll (this message is harmless)
+Loading C:\Users\vr\Desktop\SolarSystem_v107\Builds\cs491_Ana_Data\Managed\UnityEngine.VR.dll into Unity Child Domain
+- Completed reload, in  0.140 seconds
+Platform assembly: C:\Users\vr\Desktop\SolarSystem_v107\Builds\cs491_Ana_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\vr\Desktop\SolarSystem_v107\Builds\cs491_Ana_Data\Managed\System.dll (this message is harmless)
+Platform assembly: C:\Users\vr\Desktop\SolarSystem_v107\Builds\cs491_Ana_Data\Managed\System.Xml.dll (this message is harmless)
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1920x1080 60Hz; virtual: 5760x2170 at -3840,-1090
+<RI> Initialized touch support.
+OpenVR initialized!
+ 
+(Filename:  Line: 381)
+
+The referenced script on this Behaviour (Game Object 'Button (1)') is missing!
+ 
+(Filename:  Line: 1754)
+
+UnloadTime: 0.605445 ms
+Connected to lighthouse:LHR-4447284D
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+DirectoryNotFoundException: Directory 'C:\Users\vr\Desktop\SolarSystem_v107\Builds\cs491_Ana_Data\PlanetData' not found.
+  at System.IO.Directory.GetFileSystemEntries (System.String path, System.String searchPattern, FileAttributes mask, FileAttributes attrs) [0x00000] in <filename unknown>:0 
+  at System.IO.Directory.GetFiles (System.String path, System.String searchPattern) [0x00000] in <filename unknown>:0 
+  at System.IO.DirectoryInfo.GetFiles (System.String searchPattern) [0x00000] in <filename unknown>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.DirectoryInfo:GetFiles (string)
+  at Planets.getSolarSystems () [0x00000] in <filename unknown>:0 
+  at Planets.SaveSystemsToFile () [0x00000] in <filename unknown>:0 
+  at Planets.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 4440 -> priority: 1 
+  Thread -> id: 2d4c -> priority: 1 
+OpenVR Shutdown
+ 
+(Filename:  Line: 815)
+

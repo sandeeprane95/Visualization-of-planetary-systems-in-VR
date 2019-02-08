@@ -1,0 +1,66 @@
+<system>
+    <name>Solar System</name>
+    <star>
+        <name>Sun</name>
+        <mass></mass>
+        <radius>695500</radius>
+        <spectraltype>G2V</spectraltype>
+		<temperature>5778</temperature>
+        <planet>
+            <name>Mercury</name>
+            <radius>2440</radius>
+            <period>0.24</period>
+            <semimajoraxis>57910000</semimajoraxis>
+            <description>First Planet in Solar System</description>
+        </planet>
+        <planet>
+            <name>Venus</name>
+            <radius>6052</radius>
+            <period>0.62</period>
+            <semimajoraxis>108200000</semimajoraxis>
+            <description>Brightest planet in solar system</description>
+        </planet>
+        <planet>
+            <name>Earth</name>
+            <radius>6371</radius>
+            <period>1</period>
+            <semimajoraxis>149600000</semimajoraxis>
+            <description>Our planet</description>
+        </planet>
+        <planet>
+            <name>Mars</name>
+            <radius>3400</radius>
+            <period>1.88</period>
+            <semimajoraxis>227900000</semimajoraxis>
+            <description></description>
+        </planet>
+        <planet>
+            <name>Jupiter</name>
+            <radius>69911</radius>
+            <period>11.86</period>
+            <semimajoraxis>778500000</semimajoraxis>
+            <description></description>
+        </planet>
+        <planet>
+            <name>Saturn</name>
+            <radius>58232</radius>
+            <period>29.46</period>
+            <semimajoraxis>1433000000</semimajoraxis>
+            <description>A planet with rings</description>
+        </planet>
+        <planet>
+            <name>Uranus</name>
+            <radius>25362</radius>
+            <period>84.01</period>
+            <semimajoraxis>2877000000</semimajoraxis>
+            <description></description>
+        </planet>
+        <planet>
+            <name>Neptune</name>
+            <radius>24622</radius>
+            <period>164.80</period>
+            <semimajoraxis>4503000000</semimajoraxis>
+            <description></description>
+        </planet>
+    </star>
+</system>

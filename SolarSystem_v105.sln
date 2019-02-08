@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SolarSystem_v105", "SolarSystem_v105.csproj", "{5BAB1795-C46E-1A46-7B54-74C53BAF6A13}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SolarSystem_v105.Editor", "SolarSystem_v105.Editor.csproj", "{0F5E339A-47B3-B831-D113-9FB648AA3DE8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5BAB1795-C46E-1A46-7B54-74C53BAF6A13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BAB1795-C46E-1A46-7B54-74C53BAF6A13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BAB1795-C46E-1A46-7B54-74C53BAF6A13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BAB1795-C46E-1A46-7B54-74C53BAF6A13}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F5E339A-47B3-B831-D113-9FB648AA3DE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F5E339A-47B3-B831-D113-9FB648AA3DE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F5E339A-47B3-B831-D113-9FB648AA3DE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F5E339A-47B3-B831-D113-9FB648AA3DE8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

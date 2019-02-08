@@ -1,0 +1,31 @@
+<system>
+    <name>Gliese581</name>
+    <star>
+        <name>Gliese581</name>
+        <mass></mass>
+        <radius>201750</radius>
+        <spectraltype>G8.5V</spectraltype>
+		<temperature>5440</temperature>
+        <planet>
+            <name>e</name>
+            <radius>8919</radius>
+            <period>0.009</period>
+            <semimajoraxis>4188740</semimajoraxis>
+            <description>Planet e</description>
+        </planet>
+        <planet>
+            <name>b</name>
+            <radius>30554</radius>
+            <period>0.014</period>
+            <semimajoraxis>6133513</semimajoraxis>
+            <description>Planet b</description>
+        </planet>
+        <planet>
+            <name>c</name>
+            <radius>20147</radius>
+            <period>0.18</period>
+            <semimajoraxis>10920645</semimajoraxis>
+            <description>Planet c</description>
+        </planet>
+    </star>
+</system>

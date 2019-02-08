@@ -1,0 +1,45 @@
+<system>
+    <name>Tau Ceti</name>
+    <star>
+        <name>Tau Ceti</name>
+        <mass></mass>
+        <radius>556400</radius>
+        <spectraltype>G8.5V</spectraltype>
+		<temperature>5440</temperature>
+        <planet>
+            <name>b</name>
+            <radius>9009</radius>
+            <period>0.04</period>
+            <semimajoraxis>15707776</semimajoraxis>
+            <description>Planet b</description>
+        </planet>
+        <planet>
+            <name>c</name>
+            <radius>11217</radius>
+            <period>0.09</period>
+            <semimajoraxis>29171585</semimajoraxis>
+            <description>Planet c</description>
+        </planet>
+        <planet>
+            <name>d</name>
+            <radius>12088</radius>
+            <period>0.26</period>
+            <semimajoraxis>55949604</semimajoraxis>
+            <description>Planet d</description>
+        </planet>
+        <planet>
+            <name>e</name>
+            <radius>13211</radius>
+            <period>0.46</period>
+            <semimajoraxis>82578024</semimajoraxis>
+            <description>Planet e</description>
+        </planet>
+        <planet>
+            <name>f</name>
+            <radius>16454</radius>
+            <period>1.75</period>
+            <semimajoraxis>201957126</semimajoraxis>
+            <description>Planet f</description>
+        </planet>
+    </star>
+</system>
