@@ -36,3 +36,7 @@ To run the project on your desktop, use the following steps.
 Alternatively, you can also start the project by running the Executable file directly.  
 
 To use this project with HTC VIVE and HMD, you’ll need to follow the same steps mentioned above. Ensure that your VIVE controllers and Head Mounted Display is connected/synced with your computer.  
+
+## Link to download the Project
+
+https://drive.google.com/file/d/0B-x2C4Gh892AS21qeE1sYUg1ZlU/view
